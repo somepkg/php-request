@@ -1,0 +1,19 @@
+{
+    "name": "somepkg/request",
+    "description": "simple request package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Utils\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sumwai",
+            "email": "thesumwai@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}
